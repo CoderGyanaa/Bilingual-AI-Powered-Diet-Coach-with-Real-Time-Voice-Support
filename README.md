@@ -1,0 +1,2 @@
+# Bilingual-AI-Powered-Diet-Coach-with-Real-Time-Voice-Support
+🔊💬 A voice-enabled AI chatbot for personalized diet and nutrition management, supporting both English and Hindi. Built using OpenAI’s ChatGPT API and deployed with Vapi.ai for real-time bilingual voice interaction. Users receive customized meal recommendations, calorie suggestions, and hydration reminders via a user-friendly interface.
