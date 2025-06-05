@@ -28,12 +28,6 @@ This project is a **bilingual voice-enabled chatbot** that helps users manage th
 
 ---
 
-## 📷 Screenshot
-
-![Chatbot Interface](06c2db14-d6ff-414f-bbb4-e8151ce7bb39.png)
-
----
-
 ## 🔗 Live Demo
 
 ▶️ [Click to Talk to the Chatbot](https://vapi.ai?demo=true&shareKey=9fd88c16-fb27-4c26-8baf-14fd8f737f3c&assistantId=e28f8198-431f-44b5-af46-d448ae273da8)
