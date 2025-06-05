@@ -1,2 +1,63 @@
 # Bilingual-AI-Powered-Diet-Coach-with-Real-Time-Voice-Support
 🔊💬 A voice-enabled AI chatbot for personalized diet and nutrition management, supporting both English and Hindi. Built using OpenAI’s ChatGPT API and deployed with Vapi.ai for real-time bilingual voice interaction. Users receive customized meal recommendations, calorie suggestions, and hydration reminders via a user-friendly interface.
+
+# 🥗 AI Voice-Based Diet Maintenance Chatbot
+
+This project is a **bilingual voice-enabled chatbot** that helps users manage their diet and nutrition goals using **AI and voice interaction**. Built using **OpenAI's ChatGPT API** and integrated with **[Vapi.ai](https://vapi.ai)**, the chatbot offers personalized meal suggestions, calorie tracking, and hydration reminders in **both English and Hindi**.
+
+---
+
+## 🌟 Features
+
+- 🔊 **Voice Interaction** (no typing required)
+- 🌐 **Bilingual Support** – English & Hindi
+- 🧠 **Powered by ChatGPT API**
+- 🍛 Personalized diet plans based on age, gender, weight, and goals
+- 💧 Hydration and meal timing suggestions
+- 🎯 Hosted using Vapi.ai with a shareable link
+
+---
+
+## 🚀 How It Works
+
+1. **Built using [Vapi.ai](https://vapi.ai)** for voice interaction.
+2. **Data uploaded in Chrome interface**: You personalize your assistant by training it on diet and health data.
+3. **ChatGPT API** handles intelligent response generation.
+4. **Speech-to-Text and Text-to-Speech** enable natural conversations.
+5. User simply clicks **“Talk to Vapi”** and speaks their query in English or Hindi.
+
+---
+
+## 📷 Screenshot
+
+![Chatbot Interface](06c2db14-d6ff-414f-bbb4-e8151ce7bb39.png)
+
+---
+
+## 🔗 Live Demo
+
+▶️ [Click to Talk to the Chatbot](https://vapi.ai?demo=true&shareKey=9fd88c16-fb27-4c26-8baf-14fd8f737f3c&assistantId=e28f8198-431f-44b5-af46-d448ae273da8)
+
+---
+
+## 🧠 Technologies Used
+
+- [OpenAI ChatGPT API](https://platform.openai.com/docs)
+- [Vapi.ai Voice SDK](https://vapi.ai)
+- HTML, CSS, JavaScript (for chatbot UI)
+- Flask (optional backend for data management)
+- Python (for custom API calls if used locally)
+
+---
+
+## 🔮 Future Scope
+
+- Add support for more regional languages (e.g., Odia, Bengali, Tamil)
+- Integrate fitness tracking (e.g., steps, calories burned)
+- Connect with wearable devices
+- Deploy as a mobile app
+
+---
+
+> ⚡ *Empowering personalized nutrition through voice and AI – anytime, anywhere!*
+
