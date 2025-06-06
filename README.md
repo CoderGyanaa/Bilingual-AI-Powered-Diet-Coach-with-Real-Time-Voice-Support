@@ -26,7 +26,7 @@ This project is a **bilingual voice-enabled chatbot** that helps users manage th
 ---
 
 ## 🔗 Live Demo
-
+![Image](https://github.com/user-attachments/assets/ac75d2f1-cc09-4795-9f28-4786b45cbc8c)
 ▶️ [Click to Talk to the Chatbot](https://vapi.ai?demo=true&shareKey=9fd88c16-fb27-4c26-8baf-14fd8f737f3c&assistantId=e28f8198-431f-44b5-af46-d448ae273da8)
 
 ---
