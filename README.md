@@ -36,11 +36,21 @@ This project is a **bilingual voice-enabled chatbot** that helps users manage th
 
 ## 🧠 Technologies Used
 
-- [OpenAI ChatGPT API](https://platform.openai.com/docs)
-- [Vapi.ai Voice SDK](https://vapi.ai)
-- HTML, CSS, JavaScript (for chatbot UI)
-- Flask (optional backend for data management)
-- Python (for custom API calls if used locally)
+- [OpenAI ChatGPT API](https://platform.openai.com/docs)  
+  → Generates intelligent and personalized diet responses.
+
+- [Vapi.ai Voice SDK](https://vapi.ai)  
+  → Provides voice interface, speech recognition, and deployment tools in-browser.
+
+- **Web Browser (Google Chrome)**  
+  → Used to train, configure, and test the chatbot through Vapi’s web platform.
+
+- **HTML, CSS, JavaScript**  
+  → Handled internally by Vapi for rendering the chatbot interface and handling interactions.
+
+- **No backend or local server required**  
+  → Entire project is managed and deployed via cloud through the Vapi.ai web platform.
+
 
 ---
 
